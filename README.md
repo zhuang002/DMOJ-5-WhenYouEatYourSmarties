@@ -1,4 +1,4 @@
-"# DMOJ-5-WhenYouEatYourSmarties" 
+# DMOJ-5-WhenYouEatYourSmarties
 
 Problem URL:
     https://dmoj.ca/problem/ecoo15r1p1
